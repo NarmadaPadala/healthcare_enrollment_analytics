@@ -1,0 +1,4 @@
+plan_type,plan_name,metal_level
+HMO,Health Maintenance Organization,Silver
+PPO,Preferred Provider Organization,Gold
+EPO,Exclusive Provider Organization,Bronze
